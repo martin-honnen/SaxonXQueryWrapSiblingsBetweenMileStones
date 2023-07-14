@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <a>
+        <ax>
+            <start></start>
+        </ax>
+        <ay></ay>
+        <az></az>
+    </a>
+    <b>
+        <bx></bx>
+    </b>
+    <c>
+        <cx></cx>
+        <cy></cy>
+        <cz>
+            <cza></cza>
+            <czb>
+                <stop></stop>
+            </czb>
+        </cz>
+    </c>
+</root>
